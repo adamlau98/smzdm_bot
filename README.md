@@ -2,7 +2,7 @@
 ===
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Created on-2020.10-green"/>
+    <img src="https://img.shieldLs.io/badge/Created on-2020.10-green"/>
     <img src="https://img.shields.io/badge/Python-3.7-blue"/>
     <img src="https://img.shields.io/badge/Last commit-Dec.-yellow"/>
     <img src="https://img.shields.io/badge/Repo size-35.8kb-red"/>
@@ -26,7 +26,7 @@
 + Windows系统可按 `F12` 快捷键打开开发者工具, Mac 快捷键 `option + command + i`
 + 选择开发者工具Network，刷新页面 ,选择第一个`www.smzdm.com`, 找到`Requests Headers`里的`Cookie`。
 
-## 3.2 更改执行时间
+## 3.2 更改时间
 在 `.github/main.yml`中，找到
 ```yml
 - cron: '0 0 * * *'
